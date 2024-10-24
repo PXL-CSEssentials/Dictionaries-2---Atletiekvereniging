@@ -56,7 +56,9 @@ Gegevens voor de berekening van het inschrijvingsbedrag:
 -   De List *namen* die gebruikt wordt om de ComboBox bij het inladen
     van de toepassing op te vullen.\
     \
-    CS list string namen
+    ```cs
+
+    ```
 
 1.  
 
